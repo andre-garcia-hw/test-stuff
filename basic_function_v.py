@@ -16,3 +16,5 @@ def get_basic():
         print(f"The was a Timeout Error {e3}") 
     except Exception as e4:
         print(f"The other errors {e4}") 
+
+get_basic()
